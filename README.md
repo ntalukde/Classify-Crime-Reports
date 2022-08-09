@@ -1,4 +1,4 @@
-# Classify-Reports
+# Classify-Crime-Reports
 The goal of this project is to classify reports based on date, location, and text description of the report.
 
 In classify_reports-location_time_data.ipynb I explored and visualized spatial and temporal data. I trained a Random Forest with XY coordinates and performed prediction on the validation data.
